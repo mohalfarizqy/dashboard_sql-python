@@ -1,6 +1,5 @@
 <h1>Editorial Dashboard</h1>
-<p>The dashboard being discussed can be found here: <a href='https://lookerstudio.google.com/u/0/reporting/ce3f7a85-abdb-46d0-b139-49e3b5c1b350/page/p_cs8tqwvbhd'>Editorial Dashboard on Google Looker Studio</a>.</p>
-<p>It can also be read as a PDF file: <a href='https://github.com/mohalfarizqy/dashboard_sql-python/blob/main/Editorial_Dashboard.pdf'>Editorial Dashboard PDF</a></p>
+<p>The dashboard being discussed can be found here as a PDF file: <a href='https://github.com/mohalfarizqy/dashboard_sql-python/blob/main/Editorial_Dashboard.pdf'>Editorial Dashboard PDF</a></p>
 
 <h2>Big Question & Specifics</h2>
 <p>This dashboard is designed to answer, descriptively, <b><i>why are our article views going down/up?</i></b> by addressing the following specific questions:</p>
